@@ -1,7 +1,7 @@
 # JetBrainsMapleMono Font Distribution
 
 > **注意**: 这是 [JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) 字体的分发仓库，遵循 OFL-1.1 许可证。
-> 字体版权归 [SpaceTimee] 所有，本仓库仅用于托管和分发。
+> 字体版权归 SpaceTimee 所有，本仓库仅用于托管和分发。
 
 ## 用途
 为 [Json Assistant](https://github.com/MemoryZy/Json-Assistant) 提供字体下载服务。
